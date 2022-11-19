@@ -1,0 +1,128 @@
+.topBarPromoter {
+	position:fixed;
+	z-index:1119999;
+	top:0;
+	left:0;
+	width:100%;
+	margin:0;
+	padding:0;
+}
+.topBarPromoter img {
+}
+
+.topBarPromoter .topBarPromoterLogo {
+	position:absolute;
+	left:8px;
+	margin:0;
+	padding:0;
+}
+
+
+.topBarPromoter .the_offers_selector {
+	position:relative;
+	margin:0;
+	padding:0;	
+}
+.topBarPromoter .the_offers_selector a {
+	text-decoration:none;
+	margin:0;
+}
+
+
+.topBarPromoter .dropDownText {
+	font-family:Verdana, Geneva, sans-serif;
+	line-height: 1.4em;
+	text-decoration:none;
+	font-weight:normal;
+	display: block;
+	padding: 2px 0px 2px 8px;
+	height:16px;
+	margin:0;
+}
+
+.topBarPromoter .dropDownArrow {
+	position:absolute;
+	top:0;
+	right:0;
+	width: 32px;
+	height:20px;
+	display: block;
+	padding:0;
+	margin:0;
+}
+
+.topBarPromoter .preview_offer {
+	position:absolute;
+	z-index:999;
+	margin:0;
+	padding:0;
+}
+.topBarPromoter .the_offers_div {
+	position:relative;
+	z-index:9999;
+	display:none;
+	overflow:auto;
+	margin:0;
+	padding:0;		
+	/*border:10px solid #3F0;*/
+}
+.topBarPromoter .the_offers {
+	list-style:none;
+	position:relative;
+	margin:0;
+	padding:0;
+}
+.topBarPromoter .the_offers li {
+	position:relative;
+	border-bottom:1px solid #797979;
+	padding: 10px 10px;
+	margin:0;
+	/*height:auto;*/
+}
+
+
+.topBarPromoter .offerType {
+	font-family:Verdana, Geneva, sans-serif;
+	font-weight:normal;
+	text-transform:uppercase;
+	text-decoration:none;
+	padding:3px 5px;
+	text-align:center;
+	margin:0;
+}
+
+.topBarPromoter .offerLink {
+	font-family:Verdana, Geneva, sans-serif;
+	font-weight:bold;
+	text-decoration:none;
+	position:absolute;
+	text-align:left;
+	text-transform:uppercase;
+	margin:0;
+	padding:0;
+}
+
+.topBarPromoter .shareIcons {
+	position:absolute;
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+.topBarPromoter .shareIcons img {
+	border:0;
+	margin:0;
+	padding:0px 0px 6px 0px;
+}
+.topBarPromoter .shareIcons li {
+	float:left;
+	margin:0 3px;
+}
+
+
+.topBarPromoter .close_btn {
+	position:absolute;
+	margin:0;
+	padding:0;
+}
+
+
